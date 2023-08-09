@@ -10,4 +10,8 @@ public class AA {
 	
 	String a="prasad";
 	String b="akshay";
+	
+	int prasad=12345;
+	
+	
 }
