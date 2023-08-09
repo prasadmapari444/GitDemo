@@ -7,4 +7,7 @@ public class AA {
 	int y=20;
 	int z=30;
 	int m=10;
+	
+	String a="prasad";
+	String b="akshay";
 }
