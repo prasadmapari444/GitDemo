@@ -10,4 +10,10 @@ public class MasterClass {
 		
 		System.out.println("Value of X is: "+b.x);
 	}
+	
+	//----------------'branch' code new task----------------
+	public void branchTest()
+	{
+		System.out.println("This is to test Branch");
+	}
 }
