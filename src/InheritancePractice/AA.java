@@ -13,5 +13,11 @@ public class AA {
 	
 	int prasad=12345;
 	
+	int abcd=1001;
+	
+	//--------------New chages-----------
+	int xx=1;
+	int xxx=2;
+	
 	
 }
