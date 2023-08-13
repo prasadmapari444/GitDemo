@@ -16,4 +16,13 @@ public class MasterClass {
 	{
 		System.out.println("This is to test Branch");
 	}
+	
+	
+	//----------------------------------------------------
+	public void branchTest2()
+	{
+		
+		System.out.println("This ex is of branchTest-2");
+	}
+
 }
